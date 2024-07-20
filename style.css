@@ -1,0 +1,78 @@
+.gradient-background{
+    
+        background-image: url('./image/background.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    
+}
+h1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+}
+h2{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 200;
+}
+.code-img img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image inside the container */
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+ 
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row  {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 50%;
+    margin-top: 20pxpx;
+    margin-bottom: 70px;
+}
+.d-block {
+    border-radius: 50%;
+}
+.row  {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    justify-content: center;
+    flex-wrap: wrap; /* Ensure responsiveness */
+    gap: 20px; /* Add space between items */
+}
+.lead{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.para-lim{
+    max-width:300px
+}
+.skills{
+    border-radius: 50%;
+}
+.position-relative{
+    
+    background-image: url('./image/2.png');
+    background-size: cover;
+   
+
+}
+
+
+
